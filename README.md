@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm M. Latha 👋
 
-<!--
-**M-Latha/M-Latha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.E. Electronics & Communication Engineering Student at BITM (Expected Graduation: 2027)
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer passionate about Java, SQL, AWS Cloud, and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technical Skills
+
+- Java
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+- AWS Cloud
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 LocateNow – Lost & Found Management System
+A web application that digitizes the campus lost-and-found process.
+
+### 🔹 Attendio Track
+A smart attendance management system.
+
+### 🔹 My Daily Assist
+A personal productivity and task management web application.
+
+### 🔹 Smart Carbon Tracker
+A web application that helps users monitor and reduce their carbon footprint.
+
+### 🔹 TalentMatch *(Currently Building)*
+An AI-powered job recommendation platform using Java and AWS.
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms in Java
+- AWS Cloud
+- Microsoft Excel
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/m-latha25
+- GitHub: https://github.com/M-Latha
+
+---
+
+⭐ *Always learning, always building.*
