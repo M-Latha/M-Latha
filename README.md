@@ -1,6 +1,6 @@
 # Hi, I'm M.Latha 👋
 
-🎓 Final Year B.E. Electronics & Communication Engineering Student at BITM (Expected Graduation: 2027)
+🎓 B.E. Electronics & Communication Engineering Student at BITM (Expected Graduation: 2027)
 
 💻 Aspiring Software Engineer passionate about Java, SQL, AWS Cloud, and Web Development.
 
