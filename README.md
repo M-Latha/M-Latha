@@ -1,4 +1,4 @@
-# Hi, I'm M. Latha 👋
+# Hi, I'm M.Latha 👋
 
 🎓 Final Year B.E. Electronics & Communication Engineering Student at BITM (Expected Graduation: 2027)
 
