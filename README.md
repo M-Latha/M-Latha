@@ -46,6 +46,13 @@ An AI-powered job recommendation platform using Java and AWS.
 
 ---
 
+## 🏆 Certifications
+
+- **AWS Certified Cloud Practitioner** – Amazon Web Services (Issued: July 2026)
+- **Python Internship Certificate** – Ballari Institute of Technology & Management (BITM)
+
+---
+
 ## 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/m-latha25
